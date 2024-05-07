@@ -1,0 +1,6 @@
+C:\Users\xnurs\source\repos\UnitTestLB_426\bin\Debug\net8.0\CoverletSourceRootsMapping_UnitTestLB_426
+C:\Users\xnurs\source\repos\UnitTestLB_426\obj\Debug\net8.0\UnitTestLB_426.csproj.AssemblyReference.cache
+C:\Users\xnurs\source\repos\UnitTestLB_426\obj\Debug\net8.0\UnitTestLB_426.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xnurs\source\repos\UnitTestLB_426\obj\Debug\net8.0\UnitTestLB_426.AssemblyInfoInputs.cache
+C:\Users\xnurs\source\repos\UnitTestLB_426\obj\Debug\net8.0\UnitTestLB_426.AssemblyInfo.cs
+C:\Users\xnurs\source\repos\UnitTestLB_426\obj\Debug\net8.0\UnitTestLB_426.csproj.CoreCompileInputs.cache
